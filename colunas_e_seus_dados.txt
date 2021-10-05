@@ -1,0 +1,9 @@
+DTOBITO |text| Data do óbito, no formato ddmmaaaa
+IDADE |int4| Idade, composto de dois subcampos. O primeiro, de 1dígito, indica a unidade da idade, conforme a tabela aseguir. O segundo, de dois dígitos, indica a quantidade deunidades:0: Idade ignorada, o segundo subcampo e1: Horas, o segundo subcampo varia de 01 a 232: Dias, o segundo subcampo varia de 01 a 293: Meses, o segundo subcampo varia de 01 a 114: Anos, o segundo subcampo varia de 00 a 995: Anos (mais de 100 anos), o segundo subcampo varia de0 a 99, exemplos:000: Idade ignorada020: 20 minutos103: 3 horas204: 4 dias305: 5 meses400: menor de 1 ano, mas não se sabe o numero de horas,dias ou meses410: 10 anos505: 105 anos
+RACACOR |int8| Raça/Cor:1: Branca2: Preta3: Amarela4: Parda5: Indígena
+LOCOCOR	|int8| Local de ocorrência do óbito, conforme a tabela:9: Ignorado1: Hospital2: Outro estab saúde3: Domicílio4: Via Pública5: Outros
+CODESTAB |text| Código do estabelecimento
+CODMUNOCOR |int8| Município de ocorrência do óbito, conforme códigos IBGE
+TPMORTEOCO |int8| Informar quando a morte ocorreu: 1 – na gravidez; 2 – no parto; 3– no aborto; 4 – até 42 dias após o parto; 5 – de 43 dias a 1 anoapós o parto; 8 – não ocorreu nestes períodos; 9 – ignorado.
+OBITOGRAV |int8| Morte durante a Gravidez conforme tabela:9: Ignorado1: Sim2: Não
+CAUSABAS |text| Causa básica, conforme a Classificação Internacional de Doença (CID), 10a. Revisão
