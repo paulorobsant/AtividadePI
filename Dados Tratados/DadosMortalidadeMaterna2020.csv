@@ -1,0 +1,40 @@
+,DTOBITO,IDADE,RACACOR,LOCOCOR,CODESTAB,CODMUNOCOR,TPMORTEOCO,OBITOGRAV,CAUSABAS,MUNICIPIO,CAUSA
+0,2020-01-04,30,Branca,Hospital,4044916,320530,Até 42 dias após o parto,Não,O85,VITÓRIA,Infecção puerperal
+1,2020-06-07,39,Preta,Hospital,7257406,320500,Até 42 dias após o parto,Não,O985,SERRA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+2,2020-06-02,31,Parda,Domicílio,,320110,No aborto,Sim,O068,BOM JESUS DO NORTE,"Aborto não especificado - completo ou não especificado, com outras complicações ou com complicações não especificadas"
+3,2020-02-21,25,Preta,Hospital,2448521,320150,Até 42 dias após o parto,Não,O85,COLATINA,Infecção puerperal
+4,2020-03-18,42,Branca,Hospital,2628023,320420,Até 42 dias após o parto,Não,O994,PIÚMA,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério"
+5,2020-01-23,30,Parda,Hospital,2448203,320245,Na gravidez,Sim,O100,IBATIBA,"Hipertensão essencial pré-existente complicando a gravidez, o parto e o puerpério"
+6,2020-02-25,42,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O994,SERRA,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério"
+7,2020-06-20,34,,Hospital,7257406,320500,Até 42 dias após o parto,Não,O985,SERRA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+8,2020-03-21,25,Branca,Hospital,2547058,320500,Até 42 dias após o parto,Não,O141,SERRA,Pré-eclâmpsia grave
+9,2020-05-27,39,Branca,Domicílio,,320520,Na gravidez,Sim,O225,VILA VELHA,Trombose venosa cerebral na gravidez
+10,2020-05-11,21,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O989,SERRA,"Doenças infecciosas e parasitárias maternas, não especificadas, complicando a gravidez, o parto e o puerpério"
+11,2020-05-12,25,Branca,Hospital,7257406,320500,Até 42 dias após o parto,Não,O985,SERRA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+12,2020-06-13,17,Parda,Hospital,2550687,320490,Até 42 dias após o parto,Não,O85,SÃO MATEUS,Infecção puerperal
+13,2020-03-21,39,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O998,SERRA,"Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério"
+14,2020-06-07,19,Parda,Hospital,2448521,320150,Até 42 dias após o parto,Não,O990,COLATINA,"Anemia complicando a gravidez, o parto e o puerpério"
+15,2020-01-04,29,Parda,Hospital,2465833,320320,Até 42 dias após o parto,Não,O152,LINHARES,Eclâmpsia no puerpério
+16,2020-12-29,37,Parda,Hospital,2448521,320150,Ignorado,Ignorado,O150,COLATINA,Eclâmpsia na gravidez
+17,2020-12-01,17,Parda,Hospital,3480550,320230,Na gravidez,Sim,O995,GUAÇUÍ,"Doenças do aparelho respiratório complicando a gravidez, o parto e o puerpério"
+18,2020-10-26,31,,Hospital,2485729,320120,No aborto,Sim,O039,CACHOEIRO DE ITAPEMIRIM,"Aborto espontâneo - completo ou não especificado, sem complicações"
+19,2020-09-06,18,Parda,Hospital,7257406,320500,,,O864,SERRA,Febre de origem desconhecida subseqüente ao parto
+20,2020-10-11,32,Preta,Hospital,7257406,320500,,,O141,SERRA,Pré-eclâmpsia grave
+21,2020-07-03,37,Preta,Hospital,7257406,320500,Até 42 dias após o parto,Não,O985,SERRA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+22,2020-08-03,40,Parda,Hospital,3450198,320500,,,O998,SERRA,"Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério"
+23,2020-08-18,31,Parda,Hospital,6559131,320530,Até 42 dias após o parto,Não,O994,VITÓRIA,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério"
+24,2020-12-28,32,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O868,SERRA,Outras infecções puerperais especificadas
+25,2020-12-09,39,Parda,Hospital,2548127,320120,Até 42 dias após o parto,Não,O985,CACHOEIRO DE ITAPEMIRIM,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+26,2020-09-24,17,,Hospital,2547821,320120,No parto,Sim,O141,CACHOEIRO DE ITAPEMIRIM,Pré-eclâmpsia grave
+27,2020-12-04,42,Preta,Hospital,2448521,320150,,,O13,COLATINA,Hipertensão gestacional [induzida pela gravidez] sem proteinúria significativa
+28,2020-11-29,27,Parda,Outro Estab Saúde,9958762,320500,Não ocorreu nestes períodos,Não,O994,SERRA,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério"
+29,2020-09-15,24,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O985,SERRA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+30,2020-07-14,17,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O980,SERRA,"Tuberculose complicando a gravidez, o parto e o puerpério"
+31,2020-09-01,28,Parda,Hospital,4044916,320530,Até 42 dias após o parto,Não,O721,VITÓRIA,Outras hemorragias do pós-parto imediato
+32,2020-07-01,26,Preta,Hospital,7257406,320500,,,O985,SERRA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+33,2020-12-11,29,Parda,Hospital,2445956,320090,Na gravidez,Sim,O988,BARRA DE SÃO FRANCISCO,"Outras doenças infecciosas e parasitárias maternas complicando a gravidez, o parto e o puerpério"
+34,2020-07-03,33,,Hospital,2485680,320120,Até 42 dias após o parto,Não,O85,CACHOEIRO DE ITAPEMIRIM,Infecção puerperal
+35,2020-07-17,34,Parda,Hospital,2465833,320320,Até 42 dias após o parto,Não,O720,LINHARES,Hemorragia do terceiro estágio
+36,2020-11-12,23,Branca,Hospital,3421597,320520,,,O985,VILA VELHA,"Outras doenças virais complicando a gravidez, o parto e o puerpério"
+37,2020-10-19,31,Parda,Hospital,2465833,320320,Até 42 dias após o parto,Não,O149,LINHARES,Pré-eclâmpsia não especificada
+38,2020-12-22,41,Branca,Hospital,2548127,320120,No aborto,Sim,O061,CACHOEIRO DE ITAPEMIRIM,"Aborto não especificado - incompleto, complicado por hemorragia excessiva ou tardia"

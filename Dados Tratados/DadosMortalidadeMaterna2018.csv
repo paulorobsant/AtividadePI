@@ -1,0 +1,33 @@
+,DTOBITO,IDADE,RACACOR,LOCOCOR,CODESTAB,CODMUNOCOR,TPMORTEOCO,OBITOGRAV,CAUSABAS,MUNICIPIO,CAUSA
+0,2018-01-08,42,Branca,Hospital,3537943,320520,Até 42 dias após o parto,Não,O722,VILA VELHA,"Hemorragias pós-parto, tardias e secundárias"
+1,2018-01-16,15,Parda,Hospital,7257406,320500,,,O234,SERRA,Infecção não especificada do trato urinário na gravidez
+2,2018-06-12,39,Branca,Hospital,3450198,320500,Até 42 dias após o parto,Não,O994,SERRA,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério"
+3,2018-04-03,21,Preta,Hospital,7257406,320500,Até 42 dias após o parto,Não,O141,SERRA,Pré-eclâmpsia grave
+4,2018-01-15,39,,Hospital,2547821,320120,Na gravidez,Sim,O998,CACHOEIRO DE ITAPEMIRIM,"Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério"
+5,2018-02-21,32,Parda,Hospital,2499568,320040,No parto,Sim,O95,ANCHIETA,Morte obstétrica de causa não especificada
+6,2018-05-10,28,Parda,Outro Estab Saúde,2447029,320230,Até 42 dias após o parto,Não,O882,GUAÇUÍ,Embolia obstétrica por coágulo de sangue
+7,2018-05-24,22,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O13,SERRA,Hipertensão gestacional [induzida pela gravidez] sem proteinúria significativa
+8,2018-02-21,32,Parda,Hospital,2446030,320150,Ignorado,Ignorado,O001,COLATINA,Gravidez tubária
+9,2018-03-31,33,Parda,Outro Estab Saúde,7329334,320510,Até 42 dias após o parto,Não,O723,VIANA,Deficiências de coagulação pós-parto
+10,2018-04-13,36,Parda,Hospital,2550687,320490,Até 42 dias após o parto,Não,O85,SÃO MATEUS,Infecção puerperal
+11,2018-06-06,37,Branca,Hospital,7257406,320500,Até 42 dias após o parto,Não,O996,SERRA,"Doenças do aparelho digestivo complicando a gravidez, o parto e o puerpério"
+12,2018-06-26,15,,Hospital,7257406,320500,Até 42 dias após o parto,Não,O85,SERRA,Infecção puerperal
+13,2018-08-01,33,Preta,Hospital,7257406,320500,Até 42 dias após o parto,Não,O85,SERRA,Infecção puerperal
+14,2018-08-31,36,Preta,Hospital,7257406,320500,Até 42 dias após o parto,Não,O159,SERRA,Eclâmpsia não especificada quanto ao período
+15,2018-06-14,30,Parda,Hospital,7257406,320500,,,O871,SERRA,Tromboflebite profunda no puerpério
+16,2018-06-22,25,Parda,Outro Estab Saúde,0011835,320530,Na gravidez,Sim,O995,VITÓRIA,"Doenças do aparelho respiratório complicando a gravidez, o parto e o puerpério"
+17,2018-07-13,41,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O450,SERRA,Descolamento prematuro da placenta com deficiência de coagulação
+18,2018-08-17,14,,Hospital,2550687,320490,Até 42 dias após o parto,Não,O85,SÃO MATEUS,Infecção puerperal
+19,2018-09-02,29,Parda,Hospital,7257406,320500,,,O459,SERRA,"Descolamento prematuro da placenta, não especificado"
+20,2018-10-20,40,,Hospital,6559131,320530,Até 42 dias após o parto,Não,O85,VITÓRIA,Infecção puerperal
+21,2018-09-05,26,Parda,Hospital,7621442,320530,Até 42 dias após o parto,Não,O871,VITÓRIA,Tromboflebite profunda no puerpério
+22,2018-12-21,23,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O980,SERRA,"Tuberculose complicando a gravidez, o parto e o puerpério"
+23,2018-12-27,32,Branca,Hospital,7257406,320500,No parto,Sim,O141,SERRA,Pré-eclâmpsia grave
+24,2018-10-29,41,Branca,Hospital,7257406,320500,Até 42 dias após o parto,Não,O723,SERRA,Deficiências de coagulação pós-parto
+25,2018-11-23,24,Preta,Hospital,7257406,320500,Até 42 dias após o parto,Não,O141,SERRA,Pré-eclâmpsia grave
+26,2018-11-26,31,Preta,Hospital,2486199,320500,Até 42 dias após o parto,Não,O995,SERRA,"Doenças do aparelho respiratório complicando a gravidez, o parto e o puerpério"
+27,2018-09-21,35,Parda,Hospital,6792782,320520,Não ocorreu nestes períodos,Não,O208,VILA VELHA,Outras hemorragias do início da gravidez
+28,2018-10-21,36,Branca,Hospital,6823351,320140,Na gravidez,Sim,O223,CASTELO,Flebotrombose profunda na gravidez
+29,2018-11-19,34,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O903,SERRA,Cardiomiopatia no puerpério
+30,2018-11-11,36,Parda,Hospital,3167895,320530,Até 42 dias após o parto,Não,O141,VITÓRIA,Pré-eclâmpsia grave
+31,2018-12-01,37,Parda,Hospital,7257406,320500,Até 42 dias após o parto,Não,O731,SERRA,"Retenção de partes da placenta ou das membranas, sem hemorragia"
